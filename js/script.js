@@ -109,7 +109,7 @@ document.addEventListener('DOMContentLoaded', () => {
         startBtn.addEventListener('click', () => {
             startBtn.textContent = 'ENTRANDO NO NÚCLEO...';
             setTimeout(() => {
-                window.location.href = 'Index.html';
+                window.location.href = 'acesso.html';
             }, 800);
         },);
     });
@@ -361,7 +361,7 @@ document.addEventListener('DOMContentLoaded', () => {
         startBtn.addEventListener('click', () => {
             startBtn.textContent = 'ENTRANDO NO NÚCLEO...';
             setTimeout(() => {
-                window.location.href = 'Index.html';
+                window.location.href = 'acesso.html';
             }, 800);
         });
     }
